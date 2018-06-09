@@ -10,3 +10,15 @@ C:\Users\Me\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStor
 C:\Users\Me\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.AssemblyInfo.cs
 C:\Users\Me\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.dll
 C:\Users\Me\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.pdb
+E:\DRIVE\COLLEGE\TM\P0202\ASP\TM_MusicStore\MusicStore\bin\Debug\netcoreapp2.0\MusicStore.deps.json
+E:\DRIVE\COLLEGE\TM\P0202\ASP\TM_MusicStore\MusicStore\bin\Debug\netcoreapp2.0\MusicStore.runtimeconfig.json
+E:\DRIVE\COLLEGE\TM\P0202\ASP\TM_MusicStore\MusicStore\bin\Debug\netcoreapp2.0\MusicStore.runtimeconfig.dev.json
+E:\DRIVE\COLLEGE\TM\P0202\ASP\TM_MusicStore\MusicStore\bin\Debug\netcoreapp2.0\MusicStore.dll
+E:\DRIVE\COLLEGE\TM\P0202\ASP\TM_MusicStore\MusicStore\bin\Debug\netcoreapp2.0\MusicStore.pdb
+E:\DRIVE\COLLEGE\TM\P0202\ASP\TM_MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.csprojAssemblyReference.cache
+E:\DRIVE\COLLEGE\TM\P0202\ASP\TM_MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.csproj.CoreCompileInputs.cache
+E:\DRIVE\COLLEGE\TM\P0202\ASP\TM_MusicStore\MusicStore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\DRIVE\COLLEGE\TM\P0202\ASP\TM_MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.AssemblyInfoInputs.cache
+E:\DRIVE\COLLEGE\TM\P0202\ASP\TM_MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.AssemblyInfo.cs
+E:\DRIVE\COLLEGE\TM\P0202\ASP\TM_MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.dll
+E:\DRIVE\COLLEGE\TM\P0202\ASP\TM_MusicStore\MusicStore\obj\Debug\netcoreapp2.0\MusicStore.pdb
