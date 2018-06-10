@@ -4,6 +4,8 @@
     ViewData["Title"] = "Home Page";
 }
 
+@using MusicStore.Helpers
+
 <br />
 
 <div class="jumbotron" style="background-color:lightblue">
@@ -26,7 +28,7 @@
                 <img alt="@album.Title" src="~/content/@album.AlbumArtUrl" width="100" />
                 <br />&nbsp;<br />
                 <div id="title">
-                    @album.Title
+                    @MyHelper.Truncate(album.Title, 20)
                 </div>
             </a>
         </li>
