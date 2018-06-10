@@ -15,5 +15,6 @@
     <_SelectedScaffolderCategoryPath>root/Common</_SelectedScaffolderCategoryPath>
     <WebStackScaffolding_DbContextTypeFullName>MusicStore.Data.StoreContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <ShowAllFiles>false</ShowAllFiles>
   </PropertyGroup>
 </Project>

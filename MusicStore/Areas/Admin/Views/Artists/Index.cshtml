@@ -3,6 +3,36 @@
 @{
     Layout = "/Views/Shared/_AdminLayout.cshtml";
     ViewData["Title"] = "Index";
+
+    string[] alphabet = new string[]
+    {
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z"
+    };
 }
 
 <h2>Index</h2>
@@ -10,6 +40,16 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+
+<div>
+    @foreach(string letter in alphabet)
+    {
+        <a asp-area="Admin" asp-controller="Artists" asp-action="Index" asp-route-letter="@letter">
+            @letter
+        </a>
+    }
+</div>
+
 <table class="table">
     <thead>
         <tr>
